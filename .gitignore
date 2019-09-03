@@ -1,0 +1,8 @@
+*.jpg
+*.txt
+*.ckpt
+*.pt
+*.pth
+.DS_Store
+.AppleDouble
+__pycache__
